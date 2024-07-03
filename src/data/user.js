@@ -8,7 +8,7 @@ const INFO = {
 
 	socials: {
 		github: "https://github.com/0ujjwal0",
-		linkedin: "https://linkedin.com/in/ujjwal1",
+		linkedin: "https://linkedin.com/in/ujjwal0",
 	},
 
 	homepage: {
@@ -40,7 +40,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "Todo",
 			description:
 				"",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
