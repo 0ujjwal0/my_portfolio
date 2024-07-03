@@ -6,7 +6,7 @@ Reactfolio is a modern and customizable personal portfolio web template built us
 <img src="" alt="Reactfolio" />
 </center>
 
-Live demo here: <a href="" target="_blank">reactfolio.tharindu.dev</a>
+Live demo here: <a href="https://reactfolio-plum.vercel.app" target="_blank">ujjwal.portfolio</a>
 <br/>
 Readme here: <a href="" target="_blank">here</a>
 
