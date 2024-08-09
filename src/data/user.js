@@ -26,7 +26,7 @@ const INFO = {
 	articles: {
 		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Chronological collection of my thoughts on Gen AI",
 	},
 
 	projects: [
@@ -42,28 +42,28 @@ const INFO = {
 		{
 			title: "Todo",
 			description:
-				"",
+				"A modern and responsive ToDo app leveraging React for a dynamic front-end and Tailwind CSS for sleek,mobile-friendly UI with Drag and Drop functionality , persistent state with localstorage , and state management using Redux",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/0ujjwal0/todo_react",
 		},
 
 		{
-			title: "Project 3",
+			title: "Airfood",
 			description:
-				"",
+				" A dynamic and responsive Meal Selection Application using React, Node.js, and Express to provide users with a seamless experience in browsing, selecting, and managing meals.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/0ujjwal0/airfood",
 		},
 
 		{
-			title: "Project 4",
+			title: "Chat App",
 			description:
-				"",
+				"A mern stack project currently in production which gives features like one-on-one chats,groups chats,login,signup with profile pics,and many more",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/0ujjwal0/chatapp-backend",
 		},
 	],
 };

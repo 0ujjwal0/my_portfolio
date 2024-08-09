@@ -29,7 +29,7 @@ const Footer = () => {
 
 				<div className="footer-credits">
 					<div className="footer-credits-text">
-						made by ujjwal 
+						Made by ujjwal 
 					</div>
 				</div>
 			</div>

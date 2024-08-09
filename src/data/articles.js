@@ -2,13 +2,11 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		title: "The Features Artificial Intelligence Provides to Developers",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"Artificial Intelligence offers developers a range of powerful features, including automation, predictive analytics, and intelligent decision-making. Explore how AI is transforming development processes.",
 		keywords: [
-			"The Benefits of Cloud Computing",
-			
+			"The Features Artificial Intelligence Provides to Developers",
 		],
 		style: `
 				.article-content {
@@ -16,21 +14,26 @@ function article_1() {
 					flex-direction: column;
 					align-items: center;
 				}
-
-				.randImage {
-					align-self: center;
-					outline: 2px solid red;
-				}
 				`,
 		body: (
 			<React.Fragment>
 				<div className="article-content">
-					<div className="paragraph">Content of article 1</div>
-					<img
-						src="https://picsum.photos/200/300"
-						alt="random"
-						className="randImage"
-					/>
+					<p>
+						Artificial Intelligence (AI) is revolutionizing software
+						development by offering features that enhance
+						productivity, improve code quality, and drive
+						innovation. AI-powered tools automate code generation,
+						provide intelligent code assistance, and streamline
+						testing and debugging. Additionally, AI facilitates
+						natural language processing for documentation,
+						strengthens security by detecting vulnerabilities, and
+						supports predictive analytics for data-driven decisions.
+						By enabling greater customization, improving project
+						management, and fostering collaboration, AI is becoming
+						an indispensable tool for developers, helping them
+						create more secure, efficient, and personalized
+						applications.
+					</p>
 				</div>
 			</React.Fragment>
 		),
@@ -39,22 +42,34 @@ function article_1() {
 
 function article_2() {
 	return {
-		date: "7 May 2023",
 		title: "Artificial Intelligence in Healthcare",
 		description:
 			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
 		style: ``,
-		keywords: [
-			"Artificial Intelligence in Healthcare",
-		],
+		keywords: ["Artificial Intelligence in Healthcare"],
 		body: (
 			<React.Fragment>
-				<h1>Content of article 2</h1>
+				<p>
+					Artificial Intelligence (AI) is transforming healthcare by
+					enhancing diagnostics, personalizing treatment, and
+					improving patient care. AI-driven algorithms analyze vast
+					amounts of medical data, enabling early disease detection
+					and more accurate diagnoses. Personalized treatment plans
+					are developed through AI's ability to analyze genetic,
+					environmental, and lifestyle factors. AI also streamlines
+					administrative tasks, optimizes resource allocation, and
+					improves operational efficiency in healthcare facilities. In
+					patient care, AI-powered tools assist in monitoring and
+					managing chronic conditions, providing real-time insights,
+					and supporting telemedicine. Overall, AI is driving
+					significant advancements in healthcare, leading to more
+					effective and personalized patient outcomes.
+				</p>
 			</React.Fragment>
 		),
 	};
 }
-
+ 
 const myArticles = [article_1, article_2];
 
 export default myArticles;

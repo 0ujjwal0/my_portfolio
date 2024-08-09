@@ -16,14 +16,14 @@ const SEO = [
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Chronological collection of my thoughts on Artificial intelligence",
 		keywords: ["Ujjwal", "Ujjwal S", "Ujjwal Sangwan"],
 	},
 
 	{
 		page: "projects",
 		description:
-			"I've worked on a variety of projects and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
+			"I've worked on a variety of projects based on ReactJs,NodeJs and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
 		keywords: ["Ujjwal", "Ujjwal S", "Ujjwal Sangwan"],
 	},
 
